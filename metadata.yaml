@@ -1,0 +1,31 @@
+_repo: The-Elements-of-Child-protection_58787
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Paul, Eden
+    aliases:
+    - Paul, Maurice Eden
+    - Paul, M. Eden (Maurice Eden)
+    birthdate: 1865
+    deathdate: 1944
+    gutenberg_agent_id: '389'
+    url: http://www.gutenberg.org/2009/agents/389
+    wikipedia: http://en.wikipedia.org/wiki/Eden_Paul
+creator:
+  author:
+    agent_name: Engel, Sigmund
+    gutenberg_agent_id: '50152'
+    url: http://www.gutenberg.org/2009/agents/50152
+description: ''
+gutenberg_issued: '2019-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58787'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Elements of Child-protection
+url: http://www.gutenberg.org/ebooks/58787
