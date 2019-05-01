@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '389'
     url: http://www.gutenberg.org/2009/agents/389
     wikipedia: http://en.wikipedia.org/wiki/Eden_Paul
+covers:
+- cover_type: archival
+  image_path: 58787-h/images/cover.jpg
 creator:
   author:
     agent_name: Engel, Sigmund
     gutenberg_agent_id: '50152'
     url: http://www.gutenberg.org/2009/agents/50152
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58787#The-Elements-of-Child-protection
 gutenberg_issued: '2019-01-29'
 gutenberg_type: Text
 identifiers:
